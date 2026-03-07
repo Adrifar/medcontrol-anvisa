@@ -1,0 +1,617 @@
+=====================================================================================
+LISTA DE MEDICAMENTOS CONTROLADOS - ORDEM ALFABÉTICA (sem considerar acentos)
+Fonte: RDC 999/2025 e IN 360/2025
+=====================================================================================
+
+Total de medicamentos: 610
+
+  1. Acepromazina                                       | C1 - Outras Substâncias de Controle Especial
+  2. Acetildiidrocodeína                                | A2 - Entorpecentes de Uso Especial
+  3. Acetilmetadol                                      | A1 - Entorpecentes
+  4. ácido clavulânico                                  | Antimicrobianos
+  5. ácido fusídico                                     | Antimicrobianos
+  6. ácido nalidíxico                                   | Antimicrobianos
+  7. ácido oxolínico                                    | Antimicrobianos
+  8. ácido pipemídico                                   | Antimicrobianos
+  9. Ácido valpróico                                    | C1 - Outras Substâncias de Controle Especial
+ 10. Acitretina                                         | C2 - Retinóicos
+ 11. Adapaleno                                          | C2 - Retinóicos
+ 12. Agomelatina                                        | C1 - Outras Substâncias de Controle Especial
+ 13. Alfacetilmetadol                                   | A1 - Entorpecentes
+ 14. Alfameprodina                                      | A1 - Entorpecentes
+ 15. Alfametadol                                        | A1 - Entorpecentes
+ 16. Alfaprodina                                        | A1 - Entorpecentes
+ 17. Alfaxalona                                         | B1 - Psicotrópicos
+ 18. Alfentanila                                        | A1 - Entorpecentes
+ 19. Alilprodina                                        | A1 - Entorpecentes
+ 20. Alobarbital                                        | B1 - Psicotrópicos
+ 21. Alprazolam                                         | B1 - Psicotrópicos
+ 22. Amantadina                                         | C1 - Outras Substâncias de Controle Especial
+ 23. amicacina                                          | Antimicrobianos
+ 24. Amineptina                                         | B1 - Psicotrópicos
+ 25. Aminorex                                           | B2 - Anorexígenos
+ 26. Amissulprida                                       | C1 - Outras Substâncias de Controle Especial
+ 27. Amitriptilina                                      | C1 - Outras Substâncias de Controle Especial
+ 28. Amobarbital                                        | B1 - Psicotrópicos
+ 29. Amoxapina                                          | C1 - Outras Substâncias de Controle Especial
+ 30. amoxicilina                                        | Antimicrobianos
+ 31. ampicilina                                         | Antimicrobianos
+ 32. Androstanolona                                     | C5 - Anabolizantes
+ 33. Anfepramona                                        | B2 - Anorexígenos
+ 34. Anfetamina                                         | A3 - Substâncias Psicotrópicas
+ 35. Anileridina                                        | A1 - Entorpecentes
+ 36. Aprobarbital                                       | B1 - Psicotrópicos
+ 37. Aripiprazol                                        | C1 - Outras Substâncias de Controle Especial
+ 38. Armodafinila                                       | B1 - Psicotrópicos
+ 39. Asenapina                                          | C1 - Outras Substâncias de Controle Especial
+ 40. Atomoxetina                                        | C1 - Outras Substâncias de Controle Especial
+ 41. axetilcefuroxima                                   | Antimicrobianos
+ 42. Azaciclonol                                        | C1 - Outras Substâncias de Controle Especial
+ 43. azitromicina                                       | Antimicrobianos
+ 44. aztreonam                                          | Antimicrobianos
+ 45. bacitracina                                        | Antimicrobianos
+ 46. Barbexaclona                                       | B1 - Psicotrópicos
+ 47. Barbital                                           | B1 - Psicotrópicos
+ 48. Beclamida                                          | C1 - Outras Substâncias de Controle Especial
+ 49. Benactizina                                        | C1 - Outras Substâncias de Controle Especial
+ 50. Benfluorex                                         | C1 - Outras Substâncias de Controle Especial
+ 51. Benzetidina                                        | A1 - Entorpecentes
+ 52. Benzidamina                                        | C1 - Outras Substâncias de Controle Especial
+ 53. Benzilmorfina                                      | A1 - Entorpecentes
+ 54. Benzoctamina                                       | C1 - Outras Substâncias de Controle Especial
+ 55. Benzoilmorfina                                     | A1 - Entorpecentes
+ 56. Benzoquinamida                                     | C1 - Outras Substâncias de Controle Especial
+ 57. besifloxacino                                      | Antimicrobianos
+ 58. Betacetilmetadol                                   | A1 - Entorpecentes
+ 59. Betameprodina                                      | A1 - Entorpecentes
+ 60. Betametadol                                        | A1 - Entorpecentes
+ 61. Betaprodina                                        | A1 - Entorpecentes
+ 62. Bexaroteno                                         | C2 - Retinóicos
+ 63. Bezitramida                                        | A1 - Entorpecentes
+ 64. Biperideno                                         | C1 - Outras Substâncias de Controle Especial
+ 65. Bolasterona                                        | C5 - Anabolizantes
+ 66. Boldenona                                          | C5 - Anabolizantes
+ 67. Brexpiprazol                                       | C1 - Outras Substâncias de Controle Especial
+ 68. Brivaracetam                                       | C1 - Outras Substâncias de Controle Especial
+ 69. brodimoprima                                       | Antimicrobianos
+ 70. Bromazepam                                         | B1 - Psicotrópicos
+ 71. Bromazolam                                         | B1 - Psicotrópicos
+ 72. Brotizolam                                         | B1 - Psicotrópicos
+ 73. Buprenorfina                                       | A1 - Entorpecentes
+ 74. Bupropiona                                         | C1 - Outras Substâncias de Controle Especial
+ 75. Buspirona                                          | C1 - Outras Substâncias de Controle Especial
+ 76. Butabarbital                                       | B1 - Psicotrópicos
+ 77. Butalbital                                         | B1 - Psicotrópicos
+ 78. Butaperazina                                       | C1 - Outras Substâncias de Controle Especial
+ 79. Butorfanol                                         | A1 - Entorpecentes
+ 80. Butriptilina                                       | C1 - Outras Substâncias de Controle Especial
+ 81. Camazepam                                          | B1 - Psicotrópicos
+ 82. Canabidiol (CBD)                                   | C1 - Outras Substâncias de Controle Especial
+ 83. capreomicina                                       | Antimicrobianos
+ 84. Captodiamo                                         | C1 - Outras Substâncias de Controle Especial
+ 85. Carbamazepina                                      | C1 - Outras Substâncias de Controle Especial
+ 86. carbenicilina                                      | Antimicrobianos
+ 87. Carisoprodol                                       | B1 - Psicotrópicos
+ 88. Caroxazona                                         | C1 - Outras Substâncias de Controle Especial
+ 89. Catina                                             | A3 - Substâncias Psicotrópicas
+ 90. cefaclor                                           | Antimicrobianos
+ 91. cefadroxil                                         | Antimicrobianos
+ 92. cefalexina                                         | Antimicrobianos
+ 93. cefalotina                                         | Antimicrobianos
+ 94. cefazolina                                         | Antimicrobianos
+ 95. cefefpiroma                                        | Antimicrobianos
+ 96. cefepima                                           | Antimicrobianos
+ 97. cefodizima                                         | Antimicrobianos
+ 98. cefoperazona                                       | Antimicrobianos
+ 99. cefotaxima                                         | Antimicrobianos
+100. cefoxitina                                         | Antimicrobianos
+101. cefpodoxima                                        | Antimicrobianos
+102. cefprozil                                          | Antimicrobianos
+103. ceftadizima                                        | Antimicrobianos
+104. ceftarolina fosamila                               | Antimicrobianos
+105. ceftobiprol                                        | Antimicrobianos
+106. ceftriaxona                                        | Antimicrobianos
+107. cefuroxima                                         | Antimicrobianos
+108. Celecoxibe                                         | C1 - Outras Substâncias de Controle Especial
+109. Cetamina                                           | B1 - Psicotrópicos
+110. Cetazolam                                          | B1 - Psicotrópicos
+111. Ciclarbamato                                       | C1 - Outras Substâncias de Controle Especial
+112. Ciclexedrina                                       | C1 - Outras Substâncias de Controle Especial
+113. Ciclobarbital                                      | B1 - Psicotrópicos
+114. Ciclopentolato                                     | C1 - Outras Substâncias de Controle Especial
+115. ciprofloxacina                                     | Antimicrobianos
+116. Cisaprida                                          | C1 - Outras Substâncias de Controle Especial
+117. Citalopram                                         | C1 - Outras Substâncias de Controle Especial
+118. claritromicina                                     | Antimicrobianos
+119. clindamicina                                       | Antimicrobianos
+120. Clobazam                                           | B1 - Psicotrópicos
+121. clofazimina                                        | Antimicrobianos
+122. Clomacrano                                         | C1 - Outras Substâncias de Controle Especial
+123. Clometiazol                                        | C1 - Outras Substâncias de Controle Especial
+124. Clomipramina                                       | C1 - Outras Substâncias de Controle Especial
+125. Clonazepam                                         | B1 - Psicotrópicos
+126. Clonazolam                                         | B1 - Psicotrópicos
+127. Clonitazeno                                        | A1 - Entorpecentes
+128. cloranfenicol                                      | Antimicrobianos
+129. Clorazepam                                         | B1 - Psicotrópicos
+130. Clorazepato                                        | B1 - Psicotrópicos
+131. Clordiazepóxido                                    | B1 - Psicotrópicos
+132. Cloreto de etila                                   | B1 - Psicotrópicos
+133. Cloreto de metileno/diclorometano                  | B1 - Psicotrópicos
+134. Clorexadol                                         | C1 - Outras Substâncias de Controle Especial
+135. clorfenesina                                       | Antimicrobianos
+136. Clorfentermina                                     | A3 - Substâncias Psicotrópicas
+137. Cloroxomesterona                                   | C5 - Anabolizantes
+138. Clorpromazina                                      | C1 - Outras Substâncias de Controle Especial
+139. Clorprotixeno                                      | C1 - Outras Substâncias de Controle Especial
+140. Clostebol                                          | C5 - Anabolizantes
+141. Clotiapina                                         | C1 - Outras Substâncias de Controle Especial
+142. Clotiazepam                                        | B1 - Psicotrópicos
+143. cloxacilina                                        | Antimicrobianos
+144. Cloxazolam                                         | B1 - Psicotrópicos
+145. Clozapina                                          | C1 - Outras Substâncias de Controle Especial
+146. Codeína                                            | A2 - Entorpecentes de Uso Especial
+147. Codoxima                                           | A1 - Entorpecentes
+148. Concentrado de palha de dormideira                 | A1 - Entorpecentes
+149. dactinomicina                                      | Antimicrobianos
+150. Dapoxetina                                         | C1 - Outras Substâncias de Controle Especial
+151. dapsona                                            | Antimicrobianos
+152. daptomicina                                        | Antimicrobianos
+153. Deidroclormetiltestosterona                        | C5 - Anabolizantes
+154. delamanide                                         | Antimicrobianos
+155. Delorazepam                                        | B1 - Psicotrópicos
+156. Desflurano                                         | C1 - Outras Substâncias de Controle Especial
+157. Desipramina                                        | C1 - Outras Substâncias de Controle Especial
+158. Desvenlafaxina                                     | C1 - Outras Substâncias de Controle Especial
+159. Deutetrabenazina                                   | C1 - Outras Substâncias de Controle Especial
+160. Dexanfetamina                                      | A3 - Substâncias Psicotrópicas
+161. Dexetimida                                         | C1 - Outras Substâncias de Controle Especial
+162. Dexmedetomidina                                    | C1 - Outras Substâncias de Controle Especial
+163. Dextromoramida                                     | A1 - Entorpecentes
+164. Dextropropoxifeno                                  | A2 - Entorpecentes de Uso Especial
+165. Diampromida                                        | A1 - Entorpecentes
+166. Diazepam                                           | B1 - Psicotrópicos
+167. Dibenzepina                                        | C1 - Outras Substâncias de Controle Especial
+168. Diclazepam                                         | B1 - Psicotrópicos
+169. dicloxacilina                                      | Antimicrobianos
+170. Dietiltiambuteno                                   | A1 - Entorpecentes
+171. difenilsulfona                                     | Antimicrobianos
+172. Difenoxilato                                       | A1 - Entorpecentes
+173. Difenoxina                                         | A1 - Entorpecentes
+174. Diidrocodeína                                      | A2 - Entorpecentes de Uso Especial
+175. diidroestreptomicina                               | Antimicrobianos
+176. Diidromorfina                                      | A1 - Entorpecentes
+177. Dimefeptanol (metadol)                             | A1 - Entorpecentes
+178. Dimenoxadol                                        | A1 - Entorpecentes
+179. Dimetiltiambuteno                                  | A1 - Entorpecentes
+180. Dimetracrina                                       | C1 - Outras Substâncias de Controle Especial
+181. Dioxafetila                                        | A1 - Entorpecentes
+182. Dipipanona                                         | A1 - Entorpecentes
+183. diritromicina                                      | Antimicrobianos
+184. Disopiramida                                       | C1 - Outras Substâncias de Controle Especial
+185. Dissulfiram                                        | C1 - Outras Substâncias de Controle Especial
+186. Divalproato de sódio                               | C1 - Outras Substâncias de Controle Especial
+187. Dixirazina                                         | C1 - Outras Substâncias de Controle Especial
+188. Donepezila                                         | C1 - Outras Substâncias de Controle Especial
+189. doripenem                                          | Antimicrobianos
+190. Doxepina                                           | C1 - Outras Substâncias de Controle Especial
+191. doxiciclina                                        | Antimicrobianos
+192. Dronabinol                                         | A3 - Substâncias Psicotrópicas
+193. Droperidol                                         | C1 - Outras Substâncias de Controle Especial
+194. Drostanolona                                       | C5 - Anabolizantes
+195. Drotebanol                                         | A1 - Entorpecentes
+196. dulaglutida                                        | Agonistas GLP-1
+197. Duloxetina                                         | C1 - Outras Substâncias de Controle Especial
+198. Ectiluréia                                         | C1 - Outras Substâncias de Controle Especial
+199. Emilcamato                                         | C1 - Outras Substâncias de Controle Especial
+200. Enflurano                                          | C1 - Outras Substâncias de Controle Especial
+201. Entacapona                                         | C1 - Outras Substâncias de Controle Especial
+202. eritromicina                                       | Antimicrobianos
+203. ertapenem                                          | Antimicrobianos
+204. Escetamina                                         | B1 - Psicotrópicos
+205. Escitalopram                                       | C1 - Outras Substâncias de Controle Especial
+206. espectinomicina                                    | Antimicrobianos
+207. espiramicina                                       | Antimicrobianos
+208. Estanolona                                         | C5 - Anabolizantes
+209. Estanozolol                                        | C5 - Anabolizantes
+210. Estazolam                                          | B1 - Psicotrópicos
+211. Estiripentol                                       | C1 - Outras Substâncias de Controle Especial
+212. estreptomicina                                     | Antimicrobianos
+213. Eszopiclona                                        | B1 - Psicotrópicos
+214. etambutol                                          | Antimicrobianos
+215. Etclorvinol                                        | B1 - Psicotrópicos
+216. Etilanfetamina (N-etilanfetamina)                  | B1 - Psicotrópicos
+217. Etilestrenol                                       | C5 - Anabolizantes
+218. Etilmetiltiambuteno                                | A1 - Entorpecentes
+219. Etilmorfina                                        | A2 - Entorpecentes de Uso Especial
+220. Etinamato                                          | B1 - Psicotrópicos
+221. etionamida                                         | Antimicrobianos
+222. Etizolam                                           | B1 - Psicotrópicos
+223. Etomidato                                          | C1 - Outras Substâncias de Controle Especial
+224. Etonitazeno                                        | A1 - Entorpecentes
+225. Etoricoxibe                                        | C1 - Outras Substâncias de Controle Especial
+226. Etossuximida                                       | C1 - Outras Substâncias de Controle Especial
+227. Etoxeridina                                        | A1 - Entorpecentes
+228. Facetoperano                                       | C1 - Outras Substâncias de Controle Especial
+229. Femetrazina                                        | A3 - Substâncias Psicotrópicas
+230. Femprobamato                                       | C1 - Outras Substâncias de Controle Especial
+231. Femproporex                                        | B2 - Anorexígenos
+232. Fenadoxona                                         | A1 - Entorpecentes
+233. Fenaglicodol                                       | C1 - Outras Substâncias de Controle Especial
+234. Fenampromida                                       | A1 - Entorpecentes
+235. Fenazepam                                          | B1 - Psicotrópicos
+236. Fenazocina                                         | A1 - Entorpecentes
+237. Fenciclidina                                       | A3 - Substâncias Psicotrópicas
+238. Fendimetrazina                                     | B2 - Anorexígenos
+239. Fenelzina                                          | C1 - Outras Substâncias de Controle Especial
+240. Fenetilina                                         | A3 - Substâncias Psicotrópicas
+241. Feniprazina                                        | C1 - Outras Substâncias de Controle Especial
+242. Fenitoina                                          | C1 - Outras Substâncias de Controle Especial
+243. Fenobarbital                                       | B1 - Psicotrópicos
+244. Fenomorfano                                        | A1 - Entorpecentes
+245. Fenoperidina                                       | A1 - Entorpecentes
+246. Fentanila                                          | A1 - Entorpecentes
+247. Fentermina                                         | B2 - Anorexígenos
+248. Flualprazolam                                      | B1 - Psicotrópicos
+249. Flubromazolam                                      | B1 - Psicotrópicos
+250. Fludiazepam                                        | B1 - Psicotrópicos
+251. Flufenazina                                        | C1 - Outras Substâncias de Controle Especial
+252. Flumazenil                                         | C1 - Outras Substâncias de Controle Especial
+253. Flunitrazepam                                      | B1 - Psicotrópicos
+254. Flunitrazolam                                      | B1 - Psicotrópicos
+255. Fluoxetina                                         | C1 - Outras Substâncias de Controle Especial
+256. Fluoximesterona                                    | C5 - Anabolizantes
+257. Flupentixol                                        | C1 - Outras Substâncias de Controle Especial
+258. Flurazepam                                         | B1 - Psicotrópicos
+259. Fluvoxamina                                        | C1 - Outras Substâncias de Controle Especial
+260. Folcodina                                          | A2 - Entorpecentes de Uso Especial
+261. Formebolona                                        | C5 - Anabolizantes
+262. fosfomicina                                        | Antimicrobianos
+263. ftalilsulfatiazol                                  | Antimicrobianos
+264. Ftalimidoglutarimida (talidomida)                  | C3 - Imunossupressores
+265. Furetidina                                         | A1 - Entorpecentes
+266. Gabapentina                                        | C1 - Outras Substâncias de Controle Especial
+267. Galantamina                                        | C1 - Outras Substâncias de Controle Especial
+268. gatifloxacina                                      | Antimicrobianos
+269. GBL                                                | B1 - Psicotrópicos
+270. gemifloxacino                                      | Antimicrobianos
+271. gentamicina                                        | Antimicrobianos
+272. Gestrinona                                         | C5 - Anabolizantes
+273. GHB - (ácido gama - hidroxibutírico)               | B1 - Psicotrópicos
+274. Glutetimida                                        | B1 - Psicotrópicos
+275. gramicidina                                        | Antimicrobianos
+276. Halazepam                                          | B1 - Psicotrópicos
+277. Haloperidol                                        | C1 - Outras Substâncias de Controle Especial
+278. Halotano                                           | C1 - Outras Substâncias de Controle Especial
+279. Haloxazolam                                        | B1 - Psicotrópicos
+280. Hidrato de cloral                                  | C1 - Outras Substâncias de Controle Especial
+281. Hidroclorbezetilamina                              | C1 - Outras Substâncias de Controle Especial
+282. Hidrocodona                                        | A1 - Entorpecentes
+283. Hidromorfinol                                      | A1 - Entorpecentes
+284. Hidromorfona                                       | A1 - Entorpecentes
+285. Hidroxidiona                                       | C1 - Outras Substâncias de Controle Especial
+286. Hidroxipetidina                                    | A1 - Entorpecentes
+287. Homofenazina                                       | C1 - Outras Substâncias de Controle Especial
+288. Imicloprazina                                      | C1 - Outras Substâncias de Controle Especial
+289. imipenem                                           | Antimicrobianos
+290. Imipramina                                         | C1 - Outras Substâncias de Controle Especial
+291. Imipraminóxido                                     | C1 - Outras Substâncias de Controle Especial
+292. Intermediário 'a' da petidina                      | A1 - Entorpecentes
+293. Intermediário 'b' da petidina                      | A1 - Entorpecentes
+294. Intermediário 'c' da petidina                      | A1 - Entorpecentes
+295. Intermediário da metadona                          | A1 - Entorpecentes
+296. Intermediário da moramida                          | A1 - Entorpecentes
+297. Iproclozida                                        | C1 - Outras Substâncias de Controle Especial
+298. Isocarboxazida                                     | C1 - Outras Substâncias de Controle Especial
+299. Isoflurano                                         | C1 - Outras Substâncias de Controle Especial
+300. Isometadona                                        | A1 - Entorpecentes
+301. isoniazida                                         | Antimicrobianos
+302. Isopropil-crotonil-uréia                           | C1 - Outras Substâncias de Controle Especial
+303. Isotretinoína                                      | C2 - Retinóicos
+304. Lacosamida                                         | C1 - Outras Substâncias de Controle Especial
+305. Lamotrigina                                        | C1 - Outras Substâncias de Controle Especial
+306. Lefetamina                                         | B1 - Psicotrópicos
+307. Leflunomida                                        | C1 - Outras Substâncias de Controle Especial
+308. Lemborexante                                       | B1 - Psicotrópicos
+309. Lenalidomida                                       | C3 - Imunossupressores
+310. Levanfetamina                                      | A3 - Substâncias Psicotrópicas
+311. Levetiracetam                                      | C1 - Outras Substâncias de Controle Especial
+312. Levofenacilmorfano                                 | A1 - Entorpecentes
+313. levofloxacina                                      | Antimicrobianos
+314. Levomepromazina                                    | C1 - Outras Substâncias de Controle Especial
+315. Levometorfano                                      | A1 - Entorpecentes
+316. Levomilnaciprana                                   | C1 - Outras Substâncias de Controle Especial
+317. Levomoramida                                       | A1 - Entorpecentes
+318. Levorfanol                                         | A1 - Entorpecentes
+319. limeciclina                                        | Antimicrobianos
+320. lincomicina                                        | Antimicrobianos
+321. linezolida                                         | Antimicrobianos
+322. liraglutida                                        | Agonistas GLP-1
+323. Lisdexanfetamina                                   | A3 - Substâncias Psicotrópicas
+324. Lisurida                                           | C1 - Outras Substâncias de Controle Especial
+325. Litio                                              | C1 - Outras Substâncias de Controle Especial
+326. lixisenatida                                       | Agonistas GLP-1
+327. Loflazepato de etila                               | B1 - Psicotrópicos
+328. lomefloxacina                                      | Antimicrobianos
+329. Loperamida                                         | C1 - Outras Substâncias de Controle Especial
+330. Loprazolam                                         | B1 - Psicotrópicos
+331. loracarbef                                         | Antimicrobianos
+332. Lorazepam                                          | B1 - Psicotrópicos
+333. Lormetazepam                                       | B1 - Psicotrópicos
+334. Loxapina                                           | C1 - Outras Substâncias de Controle Especial
+335. Lumiracoxibe                                       | C1 - Outras Substâncias de Controle Especial
+336. Lurasidona                                         | C1 - Outras Substâncias de Controle Especial
+337. mandelamina                                        | Antimicrobianos
+338. Maprotilina                                        | C1 - Outras Substâncias de Controle Especial
+339. Mavacanteno                                        | C1 - Outras Substâncias de Controle Especial
+340. Mazindol                                           | B2 - Anorexígenos
+341. Meclofenoxato                                      | C1 - Outras Substâncias de Controle Especial
+342. Medazepam                                          | B1 - Psicotrópicos
+343. Mefenorex                                          | B2 - Anorexígenos
+344. Mefenoxalona                                       | C1 - Outras Substâncias de Controle Especial
+345. Mefexamida                                         | C1 - Outras Substâncias de Controle Especial
+346. Memantina                                          | C1 - Outras Substâncias de Controle Especial
+347. Mepazina                                           | C1 - Outras Substâncias de Controle Especial
+348. Meprobamato                                        | B1 - Psicotrópicos
+349. meropenem                                          | Antimicrobianos
+350. Mesocarbo                                          | B1 - Psicotrópicos
+351. Mesoridazina                                       | C1 - Outras Substâncias de Controle Especial
+352. Mesterolona                                        | C5 - Anabolizantes
+353. Metadona                                           | A1 - Entorpecentes
+354. metampicilina                                      | Antimicrobianos
+355. Metandienona                                       | C5 - Anabolizantes
+356. Metandranona                                       | C5 - Anabolizantes
+357. Metandriol                                         | C5 - Anabolizantes
+358. Metazocina                                         | A1 - Entorpecentes
+359. Metenolona                                         | C5 - Anabolizantes
+360. Metildesorfina                                     | A1 - Entorpecentes
+361. Metildiidromorfina                                 | A1 - Entorpecentes
+362. Metilfenidato                                      | A3 - Substâncias Psicotrópicas
+363. Metilfenobarbital (prominal)                       | B1 - Psicotrópicos
+364. Metilnaltrexona                                    | C1 - Outras Substâncias de Controle Especial
+365. Metilpentinol                                      | C1 - Outras Substâncias de Controle Especial
+366. Metilsinefrina                                     | A3 - Substâncias Psicotrópicas
+367. Metiltestosterona                                  | C5 - Anabolizantes
+368. Metiprilona                                        | B1 - Psicotrópicos
+369. Metisergida                                        | C1 - Outras Substâncias de Controle Especial
+370. Metixeno                                           | C1 - Outras Substâncias de Controle Especial
+371. Metopona                                           | A1 - Entorpecentes
+372. Metopromazina                                      | C1 - Outras Substâncias de Controle Especial
+373. Metoxiflurano                                      | C1 - Outras Substâncias de Controle Especial
+374. metronidazol                                       | Antimicrobianos
+375. Mianserina                                         | C1 - Outras Substâncias de Controle Especial
+376. Mibolerona                                         | C5 - Anabolizantes
+377. Midazolam                                          | B1 - Psicotrópicos
+378. Milnaciprana                                       | C1 - Outras Substâncias de Controle Especial
+379. Miltefosina                                        | C1 - Outras Substâncias de Controle Especial
+380. Minaprina                                          | C1 - Outras Substâncias de Controle Especial
+381. minociclina                                        | Antimicrobianos
+382. miocamicina                                        | Antimicrobianos
+383. Mirofina                                           | A1 - Entorpecentes
+384. Mirtazapina                                        | C1 - Outras Substâncias de Controle Especial
+385. Misoprostol                                        | C1 - Outras Substâncias de Controle Especial
+386. mitomicina                                         | Antimicrobianos
+387. Moclobemida                                        | C1 - Outras Substâncias de Controle Especial
+388. Modafinila                                         | B1 - Psicotrópicos
+389. Molnupiravir                                       | C1 - Outras Substâncias de Controle Especial
+390. Moperona                                           | C1 - Outras Substâncias de Controle Especial
+391. Morferidina                                        | A1 - Entorpecentes
+392. Morfina                                            | A1 - Entorpecentes
+393. Morinamida                                         | A1 - Entorpecentes
+394. moxifloxacino                                      | Antimicrobianos
+395. mupirocina                                         | Antimicrobianos
+396. N-oxicodeína                                       | A1 - Entorpecentes
+397. N-oximorfina                                       | A1 - Entorpecentes
+398. Nalbufina                                          | A2 - Entorpecentes de Uso Especial
+399. Nalorfina                                          | A2 - Entorpecentes de Uso Especial
+400. Naloxona                                           | C1 - Outras Substâncias de Controle Especial
+401. Naltrexona                                         | C1 - Outras Substâncias de Controle Especial
+402. Nandrolona                                         | C5 - Anabolizantes
+403. Nefazodona                                         | C1 - Outras Substâncias de Controle Especial
+404. neomicina                                          | Antimicrobianos
+405. netilmicina                                        | Antimicrobianos
+406. Nialamida                                          | C1 - Outras Substâncias de Controle Especial
+407. Nicocodina                                         | A2 - Entorpecentes de Uso Especial
+408. Nicodicodina                                       | A2 - Entorpecentes de Uso Especial
+409. Nicomorfina                                        | A1 - Entorpecentes
+410. Nimetazepam                                        | B1 - Psicotrópicos
+411. Nitrazepam                                         | B1 - Psicotrópicos
+412. Nitrito de isobutila                               | C1 - Outras Substâncias de Controle Especial
+413. Nitrito de isopentila                              | C1 - Outras Substâncias de Controle Especial
+414. Nitrito de isopropila                              | C1 - Outras Substâncias de Controle Especial
+415. nitrofural                                         | Antimicrobianos
+416. nitrofurantoína                                    | Antimicrobianos
+417. nitroxolina                                        | Antimicrobianos
+418. Nomifensina                                        | C1 - Outras Substâncias de Controle Especial
+419. Noracimetadol                                      | A1 - Entorpecentes
+420. Norcanfano (fencanfamina)                          | B1 - Psicotrópicos
+421. Norcodeína                                         | A2 - Entorpecentes de Uso Especial
+422. Nordazepam                                         | B1 - Psicotrópicos
+423. Noretandrolona                                     | C5 - Anabolizantes
+424. norfloxacina                                       | Antimicrobianos
+425. Norlevorfanol                                      | A1 - Entorpecentes
+426. Normetadona                                        | A1 - Entorpecentes
+427. Normorfina                                         | A1 - Entorpecentes
+428. Norpipanona                                        | A1 - Entorpecentes
+429. Nortriptilina                                      | C1 - Outras Substâncias de Controle Especial
+430. Noxiptilina                                        | C1 - Outras Substâncias de Controle Especial
+431. ofloxacina                                         | Antimicrobianos
+432. Olanzapina                                         | C1 - Outras Substâncias de Controle Especial
+433. Ópio                                               | A1 - Entorpecentes
+434. Opipramol                                          | C1 - Outras Substâncias de Controle Especial
+435. Oripavina                                          | A1 - Entorpecentes
+436. oxacilina                                          | Antimicrobianos
+437. Oxandrolona                                        | C5 - Anabolizantes
+438. Oxazepam                                           | B1 - Psicotrópicos
+439. Oxazolam                                           | B1 - Psicotrópicos
+440. Oxcarbazepina                                      | C1 - Outras Substâncias de Controle Especial
+441. Oxibuprocaína (benoxinato)                         | C1 - Outras Substâncias de Controle Especial
+442. Oxicodona                                          | A1 - Entorpecentes
+443. Oxifenamato                                        | C1 - Outras Substâncias de Controle Especial
+444. Oximesterona                                       | C5 - Anabolizantes
+445. Oximetolona                                        | C5 - Anabolizantes
+446. Oximorfona                                         | A1 - Entorpecentes
+447. Oxipertina                                         | C1 - Outras Substâncias de Controle Especial
+448. oxitetraciclina                                    | Antimicrobianos
+449. Paliperidona                                       | C1 - Outras Substâncias de Controle Especial
+450. Parecoxibe                                         | C1 - Outras Substâncias de Controle Especial
+451. Paroxetina                                         | C1 - Outras Substâncias de Controle Especial
+452. pefloxacina                                        | Antimicrobianos
+453. Pemolina                                           | B1 - Psicotrópicos
+454. Penfluridol                                        | C1 - Outras Substâncias de Controle Especial
+455. penicilina G                                       | Antimicrobianos
+456. penicilina V                                       | Antimicrobianos
+457. Pentazocina                                        | B1 - Psicotrópicos
+458. Pentobarbital                                      | B1 - Psicotrópicos
+459. Perampanel                                         | B1 - Psicotrópicos
+460. Perfenazina                                        | C1 - Outras Substâncias de Controle Especial
+461. Pergolida                                          | C1 - Outras Substâncias de Controle Especial
+462. Periciazina (propericiazina)                       | C1 - Outras Substâncias de Controle Especial
+463. Petidina                                           | A1 - Entorpecentes
+464. Piminodina                                         | A1 - Entorpecentes
+465. Pimozida                                           | C1 - Outras Substâncias de Controle Especial
+466. Pinazepam                                          | B1 - Psicotrópicos
+467. Pipamperona                                        | C1 - Outras Substâncias de Controle Especial
+468. piperacilina                                       | Antimicrobianos
+469. Pipotiazina                                        | C1 - Outras Substâncias de Controle Especial
+470. Pipradrol                                          | B1 - Psicotrópicos
+471. pirazinamida                                       | Antimicrobianos
+472. Piritramida                                        | A1 - Entorpecentes
+473. Pirovalerona                                       | B1 - Psicotrópicos
+474. polimixina B                                       | Antimicrobianos
+475. Pomalidomida                                       | C3 - Imunossupressores
+476. Pramipexol                                         | C1 - Outras Substâncias de Controle Especial
+477. Prasterona (deidroepiandrosterona - DHEA)          | C5 - Anabolizantes
+478. Prazepam                                           | B1 - Psicotrópicos
+479. Pregabalina                                        | C1 - Outras Substâncias de Controle Especial
+480. Primidona                                          | C1 - Outras Substâncias de Controle Especial
+481. pristinamicina                                     | Antimicrobianos
+482. Proclorperazina                                    | C1 - Outras Substâncias de Controle Especial
+483. Proeptazina                                        | A1 - Entorpecentes
+484. Prolintano                                         | B1 - Psicotrópicos
+485. Promazina                                          | C1 - Outras Substâncias de Controle Especial
+486. Propanidina                                        | C1 - Outras Substâncias de Controle Especial
+487. Properidina                                        | A1 - Entorpecentes
+488. Propilexedrina                                     | B1 - Psicotrópicos
+489. Propiomazina                                       | C1 - Outras Substâncias de Controle Especial
+490. Propiram                                           | A2 - Entorpecentes de Uso Especial
+491. Propofol                                           | C1 - Outras Substâncias de Controle Especial
+492. protionamida                                       | Antimicrobianos
+493. Protipendil                                        | C1 - Outras Substâncias de Controle Especial
+494. Protriptilina                                      | C1 - Outras Substâncias de Controle Especial
+495. Proximetacaina                                     | C1 - Outras Substâncias de Controle Especial
+496. Quetiapina                                         | C1 - Outras Substâncias de Controle Especial
+497. Racemetorfano                                      | A1 - Entorpecentes
+498. Racemoramida                                       | A1 - Entorpecentes
+499. Racemorfano                                        | A1 - Entorpecentes
+500. Ramelteona                                         | C1 - Outras Substâncias de Controle Especial
+501. Rasagilina                                         | C1 - Outras Substâncias de Controle Especial
+502. Reboxetina                                         | C1 - Outras Substâncias de Controle Especial
+503. Remifentanila                                      | A1 - Entorpecentes
+504. Remimazolam                                        | B1 - Psicotrópicos
+505. retapamulina                                       | Antimicrobianos
+506. Ribavirina                                         | C1 - Outras Substâncias de Controle Especial
+507. rifabutina                                         | Antimicrobianos
+508. rifamicina                                         | Antimicrobianos
+509. rifampicina                                        | Antimicrobianos
+510. rifapentina                                        | Antimicrobianos
+511. Rimonabanto                                        | C1 - Outras Substâncias de Controle Especial
+512. Risperidona                                        | C1 - Outras Substâncias de Controle Especial
+513. Rivastigmina                                       | C1 - Outras Substâncias de Controle Especial
+514. Rofecoxibe                                         | C1 - Outras Substâncias de Controle Especial
+515. Ropinirol                                          | C1 - Outras Substâncias de Controle Especial
+516. rosoxacina                                         | Antimicrobianos
+517. Rotigotina                                         | C1 - Outras Substâncias de Controle Especial
+518. roxitromicina                                      | Antimicrobianos
+519. Rufinamida                                         | C1 - Outras Substâncias de Controle Especial
+520. Secbutabarbital                                    | B1 - Psicotrópicos
+521. Secobarbital                                       | B1 - Psicotrópicos
+522. Selegilina                                         | C1 - Outras Substâncias de Controle Especial
+523. semaglutida                                        | Agonistas GLP-1
+524. Sertralina                                         | C1 - Outras Substâncias de Controle Especial
+525. Sevoflurano                                        | C1 - Outras Substâncias de Controle Especial
+526. Sibutramina                                        | B2 - Anorexígenos
+527. Somapacitana                                       | C5 - Anabolizantes
+528. Somatrogona                                        | C5 - Anabolizantes
+529. Somatropina                                        | C5 - Anabolizantes
+530. Sufentanila                                        | A1 - Entorpecentes
+531. sulbactam                                          | Antimicrobianos
+532. sulfacetamida                                      | Antimicrobianos
+533. sulfadiazina                                       | Antimicrobianos
+534. sulfadoxina                                        | Antimicrobianos
+535. sulfaguanidina                                     | Antimicrobianos
+536. sulfamerazina                                      | Antimicrobianos
+537. sulfametizol                                       | Antimicrobianos
+538. sulfametoxazol                                     | Antimicrobianos
+539. sulfametoxipiridazina                              | Antimicrobianos
+540. sulfametoxipirimidina                              | Antimicrobianos
+541. sulfanilamida                                      | Antimicrobianos
+542. sulfatiazol                                        | Antimicrobianos
+543. Sulpirida                                          | C1 - Outras Substâncias de Controle Especial
+544. sultamicilina                                      | Antimicrobianos
+545. Sultoprida                                         | C1 - Outras Substâncias de Controle Especial
+546. Tacrina                                            | C1 - Outras Substâncias de Controle Especial
+547. Tanfetamina                                        | A3 - Substâncias Psicotrópicas
+548. Tapentadol                                         | A1 - Entorpecentes
+549. tazobactam                                         | Antimicrobianos
+550. Tebacona                                           | A1 - Entorpecentes
+551. Tebaína                                            | A1 - Entorpecentes
+552. tedizolida                                         | Antimicrobianos
+553. teicoplanina                                       | Antimicrobianos
+554. telitromicina                                      | Antimicrobianos
+555. Temazepam                                          | B1 - Psicotrópicos
+556. Teriflunomida                                      | C1 - Outras Substâncias de Controle Especial
+557. Testosterona                                       | C5 - Anabolizantes
+558. Tetrabenazina                                      | C1 - Outras Substâncias de Controle Especial
+559. Tetracaína                                         | C1 - Outras Substâncias de Controle Especial
+560. tetraciclina                                       | Antimicrobianos
+561. Tetrazepam                                         | B1 - Psicotrópicos
+562. Tiagabina                                          | C1 - Outras Substâncias de Controle Especial
+563. Tiamilal                                           | B1 - Psicotrópicos
+564. Tianeptina                                         | C1 - Outras Substâncias de Controle Especial
+565. tianfenicol                                        | Antimicrobianos
+566. Tiaprida                                           | C1 - Outras Substâncias de Controle Especial
+567. ticarcilina                                        | Antimicrobianos
+568. tigeciclina                                        | Antimicrobianos
+569. Tilidina                                           | A1 - Entorpecentes
+570. Tiopental                                          | B1 - Psicotrópicos
+571. Tioproperazina                                     | C1 - Outras Substâncias de Controle Especial
+572. Tioridazina                                        | C1 - Outras Substâncias de Controle Especial
+573. Tiotixeno                                          | C1 - Outras Substâncias de Controle Especial
+574. tirotricina                                        | Antimicrobianos
+575. tirzepatida                                        | Agonistas GLP-1
+576. tobramicina                                        | Antimicrobianos
+577. Tolcapona                                          | C1 - Outras Substâncias de Controle Especial
+578. Topiramato                                         | C1 - Outras Substâncias de Controle Especial
+579. Tramadol                                           | A2 - Entorpecentes de Uso Especial
+580. Tranilcipromina                                    | C1 - Outras Substâncias de Controle Especial
+581. Trazodona                                          | C1 - Outras Substâncias de Controle Especial
+582. Trembolona                                         | C5 - Anabolizantes
+583. Tretinoína                                         | C2 - Retinóicos
+584. Triazolam                                          | B1 - Psicotrópicos
+585. Triclofós                                          | C1 - Outras Substâncias de Controle Especial
+586. Tricloroetileno                                    | B1 - Psicotrópicos
+587. Triexifenidil                                      | B1 - Psicotrópicos
+588. Trifluoperazina                                    | C1 - Outras Substâncias de Controle Especial
+589. Trifluperidol                                      | C1 - Outras Substâncias de Controle Especial
+590. Trimeperidina                                      | A1 - Entorpecentes
+591. trimetoprima                                       | Antimicrobianos
+592. Trimipramina                                       | C1 - Outras Substâncias de Controle Especial
+593. Troglitazona                                       | C1 - Outras Substâncias de Controle Especial
+594. trovafloxacina                                     | Antimicrobianos
+595. Valdecoxibe                                        | C1 - Outras Substâncias de Controle Especial
+596. Valproato sódico                                   | C1 - Outras Substâncias de Controle Especial
+597. vancomicina                                        | Antimicrobianos
+598. Venlafaxina                                        | C1 - Outras Substâncias de Controle Especial
+599. Veraliprida                                        | C1 - Outras Substâncias de Controle Especial
+600. Vigabatrina                                        | C1 - Outras Substâncias de Controle Especial
+601. Vilazodona                                         | C1 - Outras Substâncias de Controle Especial
+602. Viminol                                            | A1 - Entorpecentes
+603. Vinilbital                                         | B1 - Psicotrópicos
+604. Vortioxetina                                       | C1 - Outras Substâncias de Controle Especial
+605. Zaleplona                                          | B1 - Psicotrópicos
+606. Ziprasidona                                        | C1 - Outras Substâncias de Controle Especial
+607. Zolpidem                                           | B1 - Psicotrópicos
+608. Zopiclona                                          | B1 - Psicotrópicos
+609. Zotepina                                           | C1 - Outras Substâncias de Controle Especial
+610. Zuclopentixol                                      | C1 - Outras Substâncias de Controle Especial
