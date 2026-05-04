@@ -460,6 +460,7 @@
             display: block;
         }
     </style>
+<base target="_blank">
 </head>
 <body>
     <div class="offline-indicator" id="offlineIndicator">
@@ -490,6 +491,10 @@
                 <div class="info-item">
                     <div class="info-label">Classe Terapêutica</div>
                     <div class="info-value" id="infoClasse"></div>
+                </div>
+                <div class="info-item" id="notificacaoItem" style="display: none;">
+                    <div class="info-label">Notificação Adicional</div>
+                    <div class="info-value" id="infoNotificacao"></div>
                 </div>
                 <div class="info-item">
                     <div class="info-label">Tipo de Receituário</div>
@@ -1349,12 +1354,12 @@
                         "categoria": "C1 - Outras Substâncias de Controle Especial",
                         "principioAtivo": "Canabidiol (CBD)",
                         "classe": "Substância de controle especial",
+                        "notificacao": "THC ≥ 0,2% - Notificação de Receita A (amarela)",
                         "receita": "THC ≤ 0,2% - Receita de Controle Especial (branca)",
                         "validade": "30 dias",
                         "duracao": "60 dias",
                         "retencao": "Retenção obrigatória",
                         "cor": "#74B9FF"
-
             },
             {
                         "categoria": "Antimicrobianos",
@@ -6773,6 +6778,12 @@
             
             resultTitle.textContent = med.principioAtivo;
             infoClasse.textContent = med.classe;
+            if (med.notificacao) {
+                document.getElementById('infoNotificacao').textContent = med.notificacao;
+                document.getElementById('notificacaoItem').style.display = 'block';
+            } else {
+                document.getElementById('notificacaoItem').style.display = 'none';
+            }
             infoReceita.textContent = med.receita;
             infoValidade.textContent = med.validade;
             infoDuracao.textContent = med.duracao;
